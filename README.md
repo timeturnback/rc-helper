@@ -1,6 +1,4 @@
-# React Global Loading
-
-![Example](/assets/example.png)
+# RC Helper
 
 [![npm version](https://badge.fury.io/js/rc-helper.svg)][npm_url]
 [![downloads](https://img.shields.io/npm/dt/rc-helper.svg)][npm_url]
@@ -8,7 +6,7 @@
 
 [npm_url]: https://www.npmjs.org/package/rc-helper
 
-React simple global loading package
+Helper function in javascript
 
 ## Installation
 
