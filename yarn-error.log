@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/longtran/.nvm/versions/node/v16.17.1/bin/node /Users/longtran/.nvm/versions/node/v16.17.1/bin/yarn add -D release-it
+
+PATH: 
+  /Users/longtran/.nvm/versions/node/v16.17.1/bin:/Users/longtran/.rbenv/shims:/Users/longtran/.rbenv/bin:/Users/longtran/.npm-packages/bin:/Users/longtran/.npm-packages/bin:/Users/longtran/go/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Users/longtran/.nvm/versions/node/v16.17.1/bin:/Users/longtran/.npm-packages/bin:/Users/longtran/go/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/longtran/Library/Android/sdk/emulator:/Users/longtran/Library/Android/sdk/platform-tools:/Users/longtran/Library/Android/sdk/emulator:/Users/longtran/Library/Android/sdk/platform-tools:info If you think this is a bug, please open a bug report with the information provided in "/Users/longtran/WorkSpace/npm/rc-helper/yarn-error.log".
+  info Visit https://yarnpkg.com/en/docs/cli/global for documentation about this command.
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.17.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/longtran/WorkSpace/npm/rc-helper/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/longtran/.nvm/versions/node/v16.17.1/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/Users/longtran/.nvm/versions/node/v16.17.1/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/longtran/.nvm/versions/node/v16.17.1/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
